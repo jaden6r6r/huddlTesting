@@ -5,7 +5,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.select import Select 
 import time
-from webdriver_manager.chrome import ChromeDriverManager
 
 class hudlTester:
     #Class constructor 
